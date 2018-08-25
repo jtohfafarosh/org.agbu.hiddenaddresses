@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="org.agbu.hiddenaddresses" type="module">
+  <file>hiddenaddresses</file>
+  <name>AGBU Hidden Addresses</name>
+  <description>Hide OLD Addresses of AGBU constituents on the Contact Summary Tab.</description>
+  <license>GPLv3</license>
+  <maintainer>
+    <author>Joozer Tohfafarosh</author>
+    <email>jtohfafarosh@dpci.com</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">http://FIXME</url>
+    <url desc="Documentation">http://FIXME</url>
+    <url desc="Support">http://FIXME</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2018-07-01</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments>This is a custom extension for AGBU to hide Addresses of type "OLD" from the Contact Summary Tab.</comments>
+  <civix>
+    <namespace>CRM/HiddenAddresses</namespace>
+  </civix>
+</extension>
